@@ -36,3 +36,6 @@
 - Giao diện đơn giản với Tkinter giúp người dùng nhập điểm bắt đầu và điểm kết thúc
 - Hiển thị đường đi ngắn nhất trực quan trên đồ thị
 
+📄 [Xem báo cáo PDF tại đây](https://github.com/PhanVanAnh-05/AI_02_NHOM_10/raw/main/Nhom10_TTNT.pdf)
+
+
